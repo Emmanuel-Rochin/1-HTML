@@ -1,0 +1,30 @@
+.seccionPerfil{
+    border: 3px groove gray;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgba(232, 235, 107, 0.993);
+}
+
+.fotoPerfil{
+    width: 140px; 
+    height: 100px;
+     border-radius: 50px
+}
+
+.estiloTitulo{
+    color: rgba(81, 43, 185, 0.911);
+    font-family: 'courier';
+    font-size: 250%;
+    border: 3px groove gray;
+    text-shadow: 2px 2px 4px #7547e0;
+    text-align: center;
+    letter-spacing: 1.5px;
+    border: 2px dashed rgba(103, 123, 189, 0.76);
+    background-color: rgba(175, 248, 206, 0.781);
+    
+
+}
+
+.fondoPagina{
+    background-color: rgb(236, 230, 172);;
+}
