@@ -1,18 +1,20 @@
 .seccionPerfil{
     border: 3px groove gray;
-    border-radius: 8px;
-    padding: 10px;
-    background-color: rgba(232, 235, 107, 0.993);
+    border-radius: 2px;
+    padding: -1px;
+    background-image: url("https://th.bing.com/th/id/R.409e19c2b1293486ac1622193b92efe7?rik=OWUq%2fifqZKoyjw&pid=ImgRaw&r=0");
+    text-align: center;
 }
 
 .fotoPerfil{
     width: 140px; 
     height: 100px;
-     border-radius: 50px
+    border-radius: 50px
+    
 }
 
 .estiloTitulo{
-    color: rgba(81, 43, 185, 0.911);
+    color: rgba(58, 56, 38, 0.767);
     font-family: 'courier';
     font-size: 250%;
     border: 3px groove gray;
@@ -20,7 +22,7 @@
     text-align: center;
     letter-spacing: 1.5px;
     border: 2px dashed rgba(103, 123, 189, 0.76);
-    background-color: rgba(175, 248, 206, 0.781);
+    background-image: url("https://th.bing.com/th/id/R.5d54309a520c86d6988acf448d0109cb?rik=gRPFCM4OHXczNA&pid=ImgRaw&r=0");
     
 
 }
