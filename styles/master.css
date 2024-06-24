@@ -7,7 +7,7 @@
 }
 
 .fotoPerfil{
-    width: 140px; 
+    width: 150px; 
     height: 100px;
     border-radius: 50px
     
@@ -28,5 +28,5 @@
 }
 
 .fondoPagina{
-    background-color: rgb(236, 230, 172);;
+    background-color: rgb(236, 230, 172);
 }
